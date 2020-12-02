@@ -2,7 +2,7 @@
 
 **工具列表**
 
-* Makedown
+* Markdown
 
 * Git
 
