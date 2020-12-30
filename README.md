@@ -3,11 +3,7 @@
 **工具列表**
 
 * Markdown
-
 * Git
-
 * Makefile
-
-  
-
-
+* GDB
+* CMake
